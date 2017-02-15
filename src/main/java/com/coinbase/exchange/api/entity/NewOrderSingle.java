@@ -1,8 +1,5 @@
 package com.coinbase.exchange.api.entity;
 
-/**
- * Created by irufus on 2/25/15.
- */
 public abstract class NewOrderSingle {
 
     private String client_oid; //optional

@@ -2,9 +2,6 @@ package com.coinbase.exchange.api.entity;
 
 import java.util.List;
 
-/**
- * Created by irufus on 8/3/15.
- */
 public class ProductOrderBook {
 
     private Integer sequence;

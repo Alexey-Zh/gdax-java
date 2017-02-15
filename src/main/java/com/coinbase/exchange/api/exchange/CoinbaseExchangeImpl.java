@@ -20,14 +20,10 @@ import javax.management.RuntimeErrorException;
 import java.security.InvalidKeyException;
 import java.time.Instant;
 import java.util.Base64;
-import java.util.Optional;
 
 import static org.springframework.http.HttpMethod.GET;
 
 
-/**
- * Created by irufus on 2/25/15.
- */
 @Component
 public class CoinbaseExchangeImpl implements CoinbaseExchange {
 

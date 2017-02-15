@@ -1,8 +1,5 @@
 package com.coinbase.exchange.api.orders;
 
-/**
- * Created by irufus on 2/18/15.
- */
 public class OrderBuilder {
 
     private String id;
